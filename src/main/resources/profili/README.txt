@@ -1,1 +1,0 @@
-*** CSV in this folder are for example purposes ***

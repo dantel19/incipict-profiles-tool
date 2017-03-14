@@ -1,1 +1,1 @@
-*** CSV in this folder are for example purposes ***
+*** CSV in this folder are the test cases of the application ***
